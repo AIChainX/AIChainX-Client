@@ -1,7 +1,4 @@
-# Frontend for AI-Powered DeFi Platform
-
-This repository contains the frontend code for the AI-Powered DeFi Investment Advisor and Smart Contract Generation platform. It provides a user-friendly interface for interacting with the backend AI models and blockchain contracts.
-
+```markdown
 ## Features
 - **Portfolio Dashboard**: View and analyze your DeFi investments.
 - **Trade Recommendations**: Get personalized investment strategies.
@@ -16,7 +13,7 @@ This repository contains the frontend code for the AI-Powered DeFi Investment Ad
 
 ## Project Structure
 
-├── public/                   # Static assets like images, fonts, and icons
+|── public/                   # Static assets like images, fonts, and icons
 ├── src/
 │   ├── components/           # Reusable UI components (e.g., buttons, cards)
 │   ├── pages/                # Page components (Next.js routing or React views)
@@ -32,4 +29,3 @@ This repository contains the frontend code for the AI-Powered DeFi Investment Ad
 ├── package.json              # Dependencies and scripts
 ├── next.config.js            # Next.js configuration (if using Next.js)
 └── README.md                 # Documentation for frontend setup
-
